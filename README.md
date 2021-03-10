@@ -1,7 +1,6 @@
 # uses
 
-```json
-
+```js
 module.exports = {
   config: {
     updateChannel: "stable",
@@ -40,7 +39,7 @@ module.exports = {
       lightBlue: "#6A76FB",
       lightMagenta: "#FD7CFC",
       lightCyan: "#68FDFE",
-      lightWhite: "#FFFFFF"
+      lightWhite: "#FFFFFF",
     },
     shell: "",
     shellArgs: ["--login"],
@@ -50,11 +49,10 @@ module.exports = {
     defaultSSHApp: true,
     quickEdit: false,
     macOptionSelectionMode: "vertical",
-    webGLRenderer: true
+    webGLRenderer: true,
   },
   plugins: ["hyperterm-monokai", "hyper-hide-title"],
   localPlugins: [],
-  keymaps: {
-  }
+  keymaps: {},
 };
 ```
