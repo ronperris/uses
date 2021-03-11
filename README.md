@@ -1,5 +1,39 @@
 # uses
 
+## vscode
+
+### extensions
+
+```
+2gua.rainbow-brackets
+ban.spellright
+bierner.github-markdown-preview
+bierner.markdown-checkbox
+bierner.markdown-emoji
+bierner.markdown-preview-github-styles
+bierner.markdown-yaml-preamble
+cssho.vscode-svgviewer
+dbaeumer.vscode-eslint
+eg2.tslint
+esbenp.prettier-vscode
+felixfbecker.php-intellisense
+formulahendry.auto-rename-tag
+golang.go
+keifukuda.stopwatch
+kokororin.vscode-phpfmt
+mikestead.dotenv
+ms-azuretools.vscode-docker
+ms-vscode-remote.remote-containers
+ms-vsliveshare.vsliveshare
+nonylene.dark-molokai-theme
+redhat.vscode-yaml
+vscodevim.vim
+waderyan.gitblame
+wayou.vscode-todo-highlight
+```
+
+## hyper.js
+
 ```js
 module.exports = {
   config: {
